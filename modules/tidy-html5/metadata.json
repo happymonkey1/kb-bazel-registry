@@ -1,0 +1,17 @@
+{
+    "homepage": "https://www.html-tidy.org/",
+    "maintainers": [
+        {
+            "email": "happymonkey1@kablunk.com",
+            "github": "happymonkey1",
+            "name": "happymonkey1"
+        }
+    ],
+    "repository": [
+        "github:htacg/tidy-html5"
+    ],
+    "versions": [
+        "5.8.0"
+    ],
+    "yanked_versions": {}
+}

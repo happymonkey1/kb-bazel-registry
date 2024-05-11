@@ -1,0 +1,6 @@
+{
+    "url": "https://github.com/htacg/tidy-html5/archive/refs/tags/5.8.0.tar.gz",
+    "integrity": "sha256-WchtWy5FL2PFzbKchmoSpMVbF0HXAlzy884M3pmwZg4=",
+    "strip_prefix": "tidy-html5-5.8.0",
+    "patch_strip": 1
+}
