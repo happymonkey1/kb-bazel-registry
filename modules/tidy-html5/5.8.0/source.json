@@ -2,5 +2,9 @@
     "url": "https://github.com/htacg/tidy-html5/archive/refs/tags/5.8.0.tar.gz",
     "integrity": "sha256-WchtWy5FL2PFzbKchmoSpMVbF0HXAlzy884M3pmwZg4=",
     "strip_prefix": "tidy-html5-5.8.0",
-    "patch_strip": 1
+    "patch_strip": 0,
+    "patches": {
+        "add_build_file.patch": "sha256-y3H/YmG/wXX4YL753y8kdRVCLrzrn3x8V4BMUEvZreU=",
+        "module_dot_bazel.patch": "sha256-MpAY7beXdkjCg2jhQuj5cQ2dGqcPV/OVCIJxGNSSl70="
+    }
 }
